@@ -5,7 +5,7 @@ h1 {
     }
 
 body {
-    background-image:url("../HTML/Back.jpg");
+    background-image:url("Back.jpg");
     background-repeat: no-repeat;
     background-size: cover; 
 }
