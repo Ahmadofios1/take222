@@ -1,0 +1,33 @@
+h1 {
+    color:ghostwhite;
+    font-style: italic;
+    padding: center;
+    position: center;
+    }
+
+body {
+    background-image: url("../HTML/about.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    color:maroon;
+    font-size: larger;
+    font-style: oblique;
+    font-style: bold;
+    font-display: cover;
+}
+h2{
+    color: ghostwhite;
+    font-style: italic;
+    padding: center;
+
+}
+.navbar{
+    background-color:ghostwhite;
+    height:50%;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
